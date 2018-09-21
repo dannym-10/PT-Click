@@ -1,0 +1,36 @@
+@import '~utils';
+
+.form-wrapper {
+  width: 100%;
+  background: #eee;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  margin: 20px 0;
+  box-sizing: border-box;
+
+  select, button {
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  @include tablet {
+    flex-direction: row;
+
+    select, button {
+      width: 31%;
+      margin: 0 1%;
+    }
+  }
+
+  @include desktop {
+    flex-direction: row;
+
+    select, button {
+      width: 31%;
+      margin: 0 1%;
+    }
+  }
+}

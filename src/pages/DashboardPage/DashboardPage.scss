@@ -1,0 +1,142 @@
+@import '~utils';
+
+.wrapper {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-workouts {
+  width: 100%;
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.chart {
+  width: 100%;
+  text-align: center;
+
+  @include tablet {
+    width: 50%;
+  }
+
+  @include desktop {
+    width: 50%;
+  }
+}
+
+.update-user {
+  padding: 40px 0;
+  width: 100%;
+
+  @include tablet {
+    width: 50%;
+  }
+
+  @include desktop {
+    width: 50%;
+  }
+}
+
+.welcome-user {
+  font-size: 3rem;
+  padding: 20px 0;
+}
+
+.title-current {
+  font-size: 1.2rem;
+  padding-bottom: 10px;
+}
+
+.user-info {
+  font-size: 2.5rem;
+  padding-bottom: 10px;
+  font-weight: 100;
+}
+
+.taken-on {
+  font-size: $font-size-sm;
+  font-style: italic;
+}
+
+.user-workouts {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+
+  @include tablet {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  @include desktop {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+}
+
+.workout-list {
+  margin-bottom: 30px;
+  background-color: $color-mobile-background;
+  list-style-type: none;
+  width: 100%;
+
+  @include tablet {
+    width: 46%;
+  }
+
+  @include desktop {
+    width: 30%;
+    margin: 10px;
+  }
+}
+
+.workout-item {
+  padding: 12px 18px 20px;
+  color: $color-ebonyclay;
+  padding-left: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.workout-name {
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 10px 0px;
+  color: $color-ebonyclay;
+  text-transform: capitalize;
+}
+
+.muscle-link {
+  color: $color-ebonyclay;
+  text-transform: capitalize;
+
+  &:link {
+      text-decoration: none;
+  }
+  
+  &:visited {
+      text-decoration: none;
+  }
+  
+  &:hover {
+      color: $color-saffron;
+  }
+  
+  &:active {
+      text-decoration: underline;
+  }
+}
+
+.no-workouts {
+  padding: 20px;
+  margin: 20px auto;
+  font-size: 1.6rem;
+  text-align: center;
+}

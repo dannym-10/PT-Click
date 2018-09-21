@@ -1,0 +1,38 @@
+@import '~utils';
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.svg-item:hover {
+  fill: $color-saffron;
+}
+
+.dumbbell {
+  width: 80px;
+}
+
+.ezbar{
+  width: 120px;
+}
+
+.kettlebell {
+  width: 90px;
+}
+
+.barbell {
+  width: 120px;
+}
+
+.machine {
+  width: 50px;
+}
+
+.medicineball {
+  width: 90px;
+}
+
+.plates {
+  width: 105px;
+}

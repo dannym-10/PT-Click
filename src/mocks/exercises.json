@@ -1,0 +1,2132 @@
+[
+  {
+    "name": "Barbell shoulder press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 4,
+    "id": "barbell-shoulder-press"
+  },
+  {
+    "name": "Machine shoulder press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 4,
+    "id": "machine-shoulder-press"
+  },
+  {
+    "name": "dumbbell shoulder press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 3,
+    "id": "dumbbell-shoulder-press"
+  },
+  {
+    "name": "Cable shoulder press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 4,
+    "id": "cable-shoulder-press"
+  },
+  {
+    "name": "dumbbell lateral raises",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 3,
+    "id": "dumbbell-lateral-raises"
+  },
+  {
+    "name": "Clean and press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "Traps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 5,
+    "id": "clean-and-press"
+  },
+  {
+    "name": "Clean and jerk",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "Traps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 4,
+    "id": "clean-and-jerk"
+  },
+  {
+    "name": "Standing military press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 3,
+    "id": "standing-military-press"
+  },
+  {
+    "name": "seated military press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 4,
+    "id": "seated-military-press"
+  },
+  {
+    "name": "one arm side lateral raises",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 3,
+    "id": "one-arm-side-lateral-raises"
+  },
+  {
+    "name": "Seated dumbbell press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 4,
+    "id": "seated-dumbbell-press"
+  },
+  {
+    "name": "Reverse flyes",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "Traps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 3,
+    "id": "reverse-flyes"
+  },
+  {
+    "name": "Front dumbbell raises",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "lats",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 2,
+    "id": "front-dumbbell-raises"
+  },
+  {
+    "name": "Car drivers",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "lats",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 3,
+    "id": "car-drivers"
+  },
+  {
+    "name": "Arnold dumbbell press",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 4,
+    "id": "arnold-dumbbell-press"
+  },
+  {
+    "name": "Side lateral raises",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "lats",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 3,
+    "id": "side-lateral-raises"
+  },
+  {
+    "name": "Barbbell front raises",
+    "primaryMuscle": "shoulders",
+    "secondaryMuscle": "lats",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 3,
+    "id": "barbbell-front-raises"
+  },
+  {
+    "name": "Smith machince shrug",
+    "primaryMuscle": "Traps",
+    "secondaryMuscle": "Shoulders",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 4,
+    "id": "smith-machince-shrug"
+  },
+  {
+    "name": "standing dumbbell upright row",
+    "primaryMuscle": "Traps",
+    "secondaryMuscle": "Shoulders",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 4,
+    "id": "standing-dumbbell-upright-row"
+  },
+  {
+    "name": "dumbbell shrug",
+    "primaryMuscle": "Traps",
+    "secondaryMuscle": "Shoulders",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 3,
+    "id": "dumbbell-shrug"
+  },
+  {
+    "name": "barbell shrug",
+    "primaryMuscle": "Traps",
+    "secondaryMuscle": "Shoulders",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 4,
+    "id": "barbell-shrug"
+  },
+  {
+    "name": "barbell shrug behind the back",
+    "primaryMuscle": "Traps",
+    "secondaryMuscle": "Shoulders",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 3,
+    "id": "barbell-shrug-behind-the-back"
+  },
+  {
+    "name": "cable shrug",
+    "primaryMuscle": "Traps",
+    "secondaryMuscle": "Shoulders",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 4,
+    "id": "cable-shrug"
+  },
+  {
+    "name": "upright cable row",
+    "primaryMuscle": "Traps",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 3,
+    "id": "upright-cable-row"
+  },
+  {
+    "name": "Bench press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 5,
+    "id": "bench-press"
+  },
+  {
+    "name": "Incline bench press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 4,
+    "id": "incline-bench-press"
+  },
+  {
+    "name": "Decline bench press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 4,
+    "id": "decline-bench-press"
+  },
+  {
+    "name": "dumbbell bench press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 5,
+    "id": "dumbbell-bench-press"
+  },
+  {
+    "name": "chest press machine",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 4,
+    "id": "chest-press-machine"
+  },
+  {
+    "name": "Cable chest press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 3,
+    "id": "cable-chest-press"
+  },
+  {
+    "name": "Cable fly",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 3,
+    "id": "cable-fly"
+  },
+  {
+    "name": "Chest fly machine",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 4,
+    "id": "chest-fly-machine"
+  },
+  {
+    "name": "Cable crossover",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 3,
+    "id": "cable-crossover"
+  },
+  {
+    "name": "Dip machine",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 3,
+    "id": "dip-machine"
+  },
+  {
+    "name": "Dip freestand",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 2,
+    "id": "dip-freestand"
+  },
+  {
+    "name": "dumbbell pullover",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 3,
+    "id": "dumbbell-pullover"
+  },
+  {
+    "name": "Pushups",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 2,
+    "id": "pushups"
+  },
+  {
+    "name": "Hammer grip press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 2,
+    "id": "hammer-grip-press"
+  },
+  {
+    "name": "Fornt raise and pullover",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "Triceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 3,
+    "id": "fornt-raise-and-pullover"
+  },
+  {
+    "name": "Around the world",
+    "primaryMuscle": "Chest",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 2,
+    "id": "around-the-world"
+  },
+  {
+    "name": "Dips",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscle": "chest",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 3,
+    "id": "dips"
+  },
+  {
+    "name": "Triceps pushdown - rope",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 3,
+    "id": "triceps-pushdown---rope"
+  },
+  {
+    "name": "Triceps pushdown - v bar",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 2,
+    "id": "triceps-pushdown---v-bar"
+  },
+  {
+    "name": "Kneeling cable triceps extension",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 3,
+    "id": "kneeling-cable-triceps-extension"
+  },
+  {
+    "name": "Standing dumbbell triceps extension",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 4,
+    "id": "standing-dumbbell-triceps-extension"
+  },
+  {
+    "name": "Skull crushers",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 3,
+    "id": "skull-crushers"
+  },
+  {
+    "name": "seated triceps press",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 3,
+    "id": "seated-triceps-press"
+  },
+  {
+    "name": "Triceps pushdown",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 2,
+    "id": "triceps-pushdown"
+  },
+  {
+    "name": "Pendelay Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 4,
+    "id": "pendelay-row"
+  },
+  {
+    "name": "Bent over row",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 3,
+    "id": "bent-over-row"
+  },
+  {
+    "name": "Upright row",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 3,
+    "id": "upright-row"
+  },
+  {
+    "name": "Rope face pulls",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 2,
+    "id": "rope-face-pulls"
+  },
+  {
+    "name": "Ring face pulls",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 3,
+    "id": "ring-face-pulls"
+  },
+  {
+    "name": "Incline bench row",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 3,
+    "id": "incline-bench-row"
+  },
+  {
+    "name": "Single arm DB row",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 4,
+    "id": "single-arm-db-row"
+  },
+  {
+    "name": "Pull downs (wide/narrow)",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 3,
+    "id": "pull-downs-(wide/narrow)"
+  },
+  {
+    "name": "Cable row",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 3,
+    "id": "cable-row"
+  },
+  {
+    "name": "Chin ups",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 4,
+    "id": "chin-ups"
+  },
+  {
+    "name": "deadlift",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Hamstring",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 5,
+    "id": "deadlift"
+  },
+  {
+    "name": "Bent over barbbell row",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 4,
+    "id": "bent-over-barbbell-row"
+  },
+  {
+    "name": "Pull aparts",
+    "primaryMuscle": "Back",
+    "secondaryMuscle": "lats",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 3,
+    "id": "pull-aparts"
+  },
+  {
+    "name": "Hammer curls",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 2,
+    "id": "hammer-curls"
+  },
+  {
+    "name": "Standing Barbell curls",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 3,
+    "id": "standing-barbell-curls"
+  },
+  {
+    "name": "seated barbell curls",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 3,
+    "id": "seated-barbell-curls"
+  },
+  {
+    "name": "EX-bar curls",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 3,
+    "id": "ex-bar-curls"
+  },
+  {
+    "name": "Concentration curls",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 3,
+    "id": "concentration-curls"
+  },
+  {
+    "name": "Overhead cable curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 2,
+    "id": "overhead-cable-curl"
+  },
+  {
+    "name": "Machine bicep curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 2,
+    "id": "machine-bicep-curl"
+  },
+  {
+    "name": "Dumbbell curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 3,
+    "id": "dumbbell-curl"
+  },
+  {
+    "name": "Cross body hammer curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 2,
+    "id": "cross-body-hammer-curl"
+  },
+  {
+    "name": "Preacher curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 3,
+    "id": "preacher-curl"
+  },
+  {
+    "name": "Preacher hammer dumbbell curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 3,
+    "id": "preacher-hammer-dumbbell-curl"
+  },
+  {
+    "name": "Seated dumbbell curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 3,
+    "id": "seated-dumbbell-curl"
+  },
+  {
+    "name": "Standing bicep cable curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 3,
+    "id": "standing-bicep-cable-curl"
+  },
+  {
+    "name": "Reverse barbell curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 3,
+    "id": "reverse-barbell-curl"
+  },
+  {
+    "name": "Standing dumbbell reverse curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 3,
+    "id": "standing-dumbbell-reverse-curl"
+  },
+  {
+    "name": "Lateral raises",
+    "primaryMuscle": "Lats",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 4,
+    "id": "lateral-raises"
+  },
+  {
+    "name": "Pull ups",
+    "primaryMuscle": "Lats",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 4,
+    "id": "pull-ups"
+  },
+  {
+    "name": "Lat pulldown",
+    "primaryMuscle": "Lats",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 3,
+    "id": "lat-pulldown"
+  },
+  {
+    "name": "Underhand cable pulldowns",
+    "primaryMuscle": "Lats",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 3,
+    "id": "underhand-cable-pulldowns"
+  },
+  {
+    "name": "Straignt-arm pulldown",
+    "primaryMuscle": "Lats",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 2,
+    "id": "straignt-arm-pulldown"
+  },
+  {
+    "name": "Behind the neck Lat pulldown",
+    "primaryMuscle": "Lats",
+    "secondaryMuscle": "Biceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 2,
+    "id": "behind-the-neck-lat-pulldown"
+  },
+  {
+    "name": "Plank",
+    "primaryMuscle": "Core",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 2,
+    "id": "plank"
+  },
+  {
+    "name": "Elbow to knee",
+    "primaryMuscle": "Core",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 2,
+    "id": "elbow-to-knee"
+  },
+  {
+    "name": "Plate twist",
+    "primaryMuscle": "Core",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 2,
+    "id": "plate-twist"
+  },
+  {
+    "name": "Crunch",
+    "primaryMuscle": "Core",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 2,
+    "id": "crunch"
+  },
+  {
+    "name": "Cable crunch",
+    "primaryMuscle": "Core",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 3,
+    "id": "cable-crunch"
+  },
+  {
+    "name": "Barbell ab rolllout",
+    "primaryMuscle": "Core",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 2,
+    "id": "barbell-ab-rolllout"
+  },
+  {
+    "name": "Leg raises",
+    "primaryMuscle": "Core",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 2,
+    "id": "leg-raises"
+  },
+  {
+    "name": "Ab roller",
+    "primaryMuscle": "Core",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 2,
+    "id": "ab-roller"
+  },
+  {
+    "name": "Reverse Crunch",
+    "primaryMuscle": "Core",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 3,
+    "id": "reverse-crunch"
+  },
+  {
+    "name": "Air bike",
+    "primaryMuscle": "Core",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 3,
+    "id": "air-bike"
+  },
+  {
+    "name": "Dumbbell side bends",
+    "primaryMuscle": "Core",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 2,
+    "id": "dumbbell-side-bends"
+  },
+  {
+    "name": "Rope crunch",
+    "primaryMuscle": "Core",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 1,
+    "id": "rope-crunch"
+  },
+  {
+    "name": "Smith machine calf raises",
+    "primaryMuscle": "Calves",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 3,
+    "id": "smith-machine-calf-raises"
+  },
+  {
+    "name": "standing calf raises",
+    "primaryMuscle": "Calves",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 3,
+    "id": "standing-calf-raises"
+  },
+  {
+    "name": "seated calf raises",
+    "primaryMuscle": "Calves",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 2,
+    "id": "seated-calf-raises"
+  },
+  {
+    "name": "Calf press on leg press machine",
+    "primaryMuscle": "Calves",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 2,
+    "id": "calf-press-on-leg-press-machine"
+  },
+  {
+    "name": "Calf press",
+    "primaryMuscle": "Calves",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 2,
+    "id": "calf-press"
+  },
+  {
+    "name": "Balance board",
+    "primaryMuscle": "Calves",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 1,
+    "id": "balance-board"
+  },
+  {
+    "name": "Dumbbell seated calf raises",
+    "primaryMuscle": "Calves",
+    "secondaryMuscle": "n/a",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 2,
+    "id": "dumbbell-seated-calf-raises"
+  },
+  {
+    "name": "Barbell glute bridge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscle": "Hip Extensors",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 3,
+    "id": "barbell-glute-bridge"
+  },
+  {
+    "name": "Barbell hip thrust",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscle": "Hip Extensors",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 2,
+    "id": "barbell-hip-thrust"
+  },
+  {
+    "name": "one-legged cable kickback",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscle": "Quadriceps",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 3,
+    "id": "one-legged-cable-kickback"
+  },
+  {
+    "name": "Leg press",
+    "primaryMuscle": "Quads",
+    "secondaryMuscle": "Hamstring/Glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 3,
+    "id": "leg-press"
+  },
+  {
+    "name": "Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscle": "Hamstring/Glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 5,
+    "id": "squat"
+  },
+  {
+    "name": "Snatch",
+    "primaryMuscle": "Quads",
+    "secondaryMuscle": "Hamstring/Glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 4,
+    "id": "snatch"
+  },
+  {
+    "name": "Box squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscle": "Hamstring/Glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 4,
+    "id": "box-squat"
+  },
+  {
+    "name": "Single leg push-off",
+    "primaryMuscle": "Quads",
+    "secondaryMuscle": "glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "plates"
+    ],
+    "grade": 3,
+    "id": "single-leg-push-off"
+  },
+  {
+    "name": "Pistol squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscle": "Hamstring/Glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 4,
+    "id": "pistol-squat"
+  },
+  {
+    "name": "Lunges",
+    "primaryMuscle": "Quads",
+    "secondaryMuscle": "Hamstring/Glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 4,
+    "id": "lunges"
+  },
+  {
+    "name": "Front barbell squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscle": "Hamstring/Glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 4,
+    "id": "front-barbell-squat"
+  },
+  {
+    "name": "Leg extensions",
+    "primaryMuscle": "Quads",
+    "secondaryMuscle": "Hamstring/Glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 4,
+    "id": "leg-extensions"
+  },
+  {
+    "name": "Hack squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscle": "glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 4,
+    "id": "hack-squat"
+  },
+  {
+    "name": "romanian deadlift",
+    "primaryMuscle": "Hamstring",
+    "secondaryMuscle": 6,
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "kettle bell"
+    ],
+    "grade": 5,
+    "id": "romanian-deadlift"
+  },
+  {
+    "name": "sumo deadlift",
+    "primaryMuscle": "Hamstring",
+    "secondaryMuscle": "Quads",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "medicine ball"
+    ],
+    "grade": 5,
+    "id": "sumo-deadlift"
+  },
+  {
+    "name": "Lying leg curls",
+    "primaryMuscle": "Hamstring",
+    "secondaryMuscle": "Glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "machine"
+    ],
+    "grade": 3,
+    "id": "lying-leg-curls"
+  },
+  {
+    "name": "Stiff leg deadlift",
+    "primaryMuscle": "Hamstring",
+    "secondaryMuscle": "Glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "dumbbell "
+    ],
+    "grade": 4,
+    "id": "stiff-leg-deadlift"
+  },
+  {
+    "name": "good morning",
+    "primaryMuscle": "Hamstring",
+    "secondaryMuscle": "Glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "barbell"
+    ],
+    "grade": 2,
+    "id": "good-morning"
+  },
+  {
+    "name": "Seated leg curl",
+    "primaryMuscle": "Hamstring",
+    "secondaryMuscle": "Glutes",
+    "preparation": "Lie back on a flat bench. Hold the bar with a narrow, normal or wide grip and hold the bar straight over you",
+    "execution": "breathe in and slowly bring the bar down until it touches your chest. Exhale as you push the bar back to your stating position",
+    "grips": [
+      "narrow",
+      "medium",
+      "wide"
+    ],
+    "equipment": [
+      "ez bar"
+    ],
+    "grade": 3,
+    "id": "seated-leg-curl"
+  },
+  {
+    "name": "Running Machine",
+    "primaryMuscle": "Whole Body",
+    "secondaryMuscle": "Whole Body",
+    "preparation": "Get on the machine",
+    "execution": "Use the machine",
+    "grips": [
+      "NA"
+    ],
+    "equipment": [
+      "Machine"
+    ],
+    "grade": 6,
+    "id": "running-machine"
+  },
+  {
+    "name": "Step Machine",
+    "primaryMuscle": "Whole Body",
+    "secondaryMuscle": "Whole Body",
+    "preparation": "Get on the machine",
+    "execution": "Use the machine",
+    "grips": [
+      "NA"
+    ],
+    "equipment": [
+      "Machine"
+    ],
+    "grade": 6,
+    "id": "step-machine"
+  },
+  {
+    "name": "Bicycle Machiine",
+    "primaryMuscle": "Whole Body",
+    "secondaryMuscle": "Whole Body",
+    "preparation": "Get on the machine",
+    "execution": "Use the machine",
+    "grips": [
+      "NA"
+    ],
+    "equipment": [
+      "Machine"
+    ],
+    "grade": 6,
+    "id": "bicycle-machiine"
+  },
+  {
+    "name": "Cross-Trainer",
+    "primaryMuscle": "Whole Body",
+    "secondaryMuscle": "Whole Body",
+    "preparation": "Get on the machine",
+    "execution": "Use the machine",
+    "grips": [
+      "NA"
+    ],
+    "equipment": [
+      "Machine"
+    ],
+    "grade": 6,
+    "id": "cross-trainer"
+  },
+  {
+    "name": "Skipping Rope",
+    "primaryMuscle": "Whole Body",
+    "secondaryMuscle": "Whole Body",
+    "preparation": "Get on the machine",
+    "execution": "Use the machine",
+    "grips": [
+      "NA"
+    ],
+    "equipment": [
+      "Machine"
+    ],
+    "grade": 6,
+    "id": "skipping-rope"
+  },
+  {
+    "name": "Rowing",
+    "primaryMuscle": "Whole Body",
+    "secondaryMuscle": "Whole Body",
+    "preparation": "Get on the machine",
+    "execution": "Use the machine",
+    "grips": [
+      "NA"
+    ],
+    "equipment": [
+      "Machine"
+    ],
+    "grade": 6,
+    "id": "rowing"
+  }
+]

@@ -1,0 +1,21 @@
+@import '~utils';
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 100px 0;
+}
+
+.page-not-found {
+  font-size: 3rem;
+}
+
+.weight {
+  max-width: 700px;
+  width: 100%;
+}
+
+.return-link {
+  font-size: 1.5rem;  
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="94.862mm" height="26.19mm" version="1.1" viewBox="0 0 94.862 26.19" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <g transform="translate(-30.612 -118.73)">
+  <path d="m39.717 130.03 7.4178-0.11808 1.1812-0.61421 6.0004-3.8506 3.3073 0.0472 7.0871 4.2522 13.276-0.0945 0.0709 3.9688-13.725-0.14175-7.3942-4.4885h-1.819l-8.0792 4.772-7.3115 0.10041z" stroke="#000" stroke-width=".26458px"/>
+  <path d="m116.4 130.03-7.4178-0.11808-1.1812-0.61421-6.0004-3.8506-3.3073 0.0472-7.0871 4.2522-13.276-0.0945-0.0709 3.9688 13.725-0.14175 7.3942-4.4885h1.819l8.0792 4.772 7.3587 0.0472z" stroke="#000" stroke-width=".26458px"/>
+  <g>
+   <rect transform="scale(-1,1)" x="-120.97" y="118.73" width="4.1628" height="26.189" stroke-width=".21917"/>
+   <rect transform="scale(-1,1)" x="-125.47" y="122.15" width="4.1628" height="19.725" stroke-width=".1902"/>
+   <rect x="35.116" y="118.73" width="4.1628" height="26.189" stroke-width=".21917"/>
+   <rect x="30.612" y="122.15" width="4.1628" height="19.725" stroke-width=".1902"/>
+  </g>
+ </g>
+</svg>

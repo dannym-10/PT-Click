@@ -1,0 +1,20 @@
+{
+    "presets": [
+        "env"
+    ],
+    "plugins": [
+        "transform-decorators-legacy",
+        "transform-react-jsx",
+        "transform-class-properties",
+        ["react-css-modules", {
+            "context": "src",
+            "filetypes": {
+                ".scss": {
+                    "syntax": "postcss-scss"
+                }
+            },
+            "generateScopedName": "fyp-[name]_[local]",
+            "webpackHotModuleReloading": true
+        }]
+    ]
+}

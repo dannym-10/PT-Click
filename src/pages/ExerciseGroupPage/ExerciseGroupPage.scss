@@ -1,0 +1,112 @@
+@import '~utils';
+
+.categories-wrapper {
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  
+  @include tablet {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  @include desktop {
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 60%;
+    max-height: 600px;
+  }
+}
+
+.wrapper {
+  width: 100%;
+  display: flex;
+}
+
+.category {
+  width: 100%;
+  height: 40px;
+  box-sizing: border-box;
+  background-color: #e2e2e2;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  margin-bottom: 7px;
+  position: relative;
+  text-decoration: none;
+  color: $color-ebonyclay;
+  border-radius: 8px;
+
+  &::after {
+    content: '>';
+    font-size: 25px;
+    right: 8px;
+    position: absolute;
+    font-weight: 700;
+  }
+
+  &:hover::after {
+    color: $color-saffron;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  @include tablet {
+    width: 49%;
+    height: 50px;
+    margin: 5px 0px;    
+  }
+  
+  @include desktop {
+    width: 49%;
+    height: 65px;
+    margin-right: none;
+  }
+}
+
+.category:nth-child(2n+1) {
+  margin-right: 6px;
+}
+
+.silhouette-img-wrapper {
+  display: none;
+
+  @include tablet {
+    display: none;
+  }
+
+  @include desktop {
+    width: 40%;
+    display: block;
+  }
+}
+.wrapper-body{
+  padding-top: 40px;
+  
+  img {
+    width: 450px;
+  }
+}
+
+svg g.active {
+  fill: $color-saffron !important;
+  display: none !important;
+}
+
+svg g[id*="body"]:hover {
+  fill: $color-saffron !important;
+}
+
+$muscles: (
+  shoulders: 'shoulders',
+  chest: 'chest'
+);
+
+//Need to fix the following on hover and arrange correct positioning
+// glutes
+// latts
+

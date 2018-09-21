@@ -1,0 +1,113 @@
+@import '~utils';
+
+.wrapper {
+  display: flex;
+  margin: 40px 20px;
+  flex-direction: column;
+
+  @include tablet {
+    margin: 40px 0;
+    flex-direction: row;
+  }
+
+  @include desktop {
+    margin: 40px 0;
+    flex-direction: row;
+  }
+}
+
+.image-container {
+  img { 
+    width: 100%;
+    height: auto;
+  }
+
+  @include tablet {
+    width: 50%;
+  }
+
+  @include desktop {
+    width: 50%;
+  }
+}
+
+.information-container {
+  box-sizing: border-box;
+  width: 100%;
+  padding-top: 20px;
+
+  @include tablet {
+    width: 50%;
+    padding-top: 0;
+    padding-left: 20px;
+  }
+
+  @include desktop {
+    width: 50%;
+    padding-top: 0;
+    padding-left: 40px;
+  }
+}
+
+.name {
+  font-size: 2.5rem;
+  font-weight: 100;
+}
+
+.primary-muscle {
+  font-size: 1.6rem;
+  font-weight: 100;
+  margin: 10px 0;
+}
+
+.primary-muscle-link {
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: lowercase;
+  color: #f2b632;
+
+  &:hover {
+    opacity: .8;
+  }
+}
+
+.muscle-wrapper {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 14px;
+}
+
+.muscle-group-item {
+  background-color: #eee;
+  font-size: .8rem;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px 10px 10px 0;
+  text-transform: lowercase;
+}
+
+.subheading {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+.description {
+  padding: 10px 0;
+  line-height: 1.5rem;
+}
+
+.grips {
+  .grips-item {
+    display: block;
+  }
+}
+
+.weights {
+  .weight-item {
+    display: block;
+  }
+}
+.label {
+  padding-right: 6px;
+}
